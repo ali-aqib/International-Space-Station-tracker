@@ -6,6 +6,7 @@
 
  ![step1](./images/image1.png)
  ![step2,3](./images/image2.png)
+
 4. Install python 3.12
 5. Open project in the python IDE
 6. Install requests module
