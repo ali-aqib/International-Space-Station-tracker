@@ -23,4 +23,4 @@
 14. And **DONE**
 
 ## Working of the project
-- Whenever Internation Space Station is at the given MY_LAT and MY_LONG in night then the MY_EMAIL will get a notification e-mail
+- Whenever International Space Station is at the given MY_LAT and MY_LONG in night then the MY_EMAIL will get a notification e-mail
